@@ -1,21 +1,12 @@
 /* Tags */
 body {
-  font-family: font-family: 'Acme', sans-serif;  /**/
+  font-family: 'Acme', sans-serif;  /**/
   color: #747704;
   font-weight: 300;
 }
 
-/*@media screen and (max-width: 500px) {
-  font-family: 'Fredericka the Great', cursive;
-  font-size: 20px;
-}
-*/
 
 /* Classes */
-.text-muted {
-  color: #BCBBBB;
-}
-
 .text-thin {
   font-weight: 100;
 }
@@ -31,7 +22,7 @@ body {
 }
 
 .horzLine {
-    width: 95%
+    width: 95%;
     font-size: 1px;
     color: #7d97ad;
     line-height: 4px;
@@ -39,4 +30,4 @@ body {
     background-color: grey;
     margin-top: -6px;
     margin-bottom: 10px;
-};
+}
